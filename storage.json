@@ -1,0 +1,26 @@
+{
+    "telemetry.machineId": "15dfa7a3ca155980f497df87c20e397643d24d30a63381274e8edb42953c2120",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/root/Scrivania/python/libreria",
+    "openedPathsList": {
+        "workspaces2": [],
+        "files2": [
+            "file:///root/Scrivania/python/libreria/libro.py",
+            "file:///root/Scrivania/python/libreria/backend.py"
+        ]
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/root/Scrivania/python/libreria/Backups/1549214110887",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 27,
+                "width": 1024,
+                "height": 741
+            }
+        }
+    }
+}
